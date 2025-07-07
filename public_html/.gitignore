@@ -1,0 +1,6 @@
+# Generated artifacts
+/public_html/report/
+
+# Editor-specific files
+.vscode/
+.idea/
